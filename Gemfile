@@ -8,5 +8,4 @@ gem 'rake'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
-gem 'require_all'
-    
+gem 'require_all' 
